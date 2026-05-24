@@ -1,45 +1,43 @@
-﻿ASN,VPN名もしくはISP名,,VPNサーバーの場所
-2514,Glocal VPN 動画視聴VPN,Glocal VPN かんたん固定IPアドレス,日本
-2914,"NTT America, Inc.",,-
-3258,Proton VPN,,東京
-4713,"NTT DOCOMO BUSINESS,Inc.",,-
-4785,Proton VPN,Bitdefender VPN,大阪
-7684,セカイブラウザ,,日本(東京、大阪)
-9009,AdGuard VPN,,韓国ソウル
-9009,Proton VPN,,東京
-9009,Surfshark,,日本(東京)
-16509,ノートンセキュアVPN,,東京
-16509,アバスト セキュアライン VPN,AVG セキュア VPN,日本(東京)
-16509,Glocal VPN せんぞく固定IPアドレス,,日本
-19527,トレンドマイクロ VPN,,日本(東京)
-20473,Turbo VPN,,大阪
-20473,Turbo VPN,,東京(埼玉)
-21859,TunnelBear,,東京
-21859,CyberGhost VPN,マカフィー セキュアVPN,日本(東京)
-23959,Proton VPN,,大阪
-36599,VPN Gate,,東京
-46475,TunnelBear,,東京
-46475,PureVPN,,日本(東京)
-46475,マカフィー セキュアVPN,,日本(東京)
-58325,NordVPN,,東京
-58325,PureVPN,,日本(東京)
-60068,AdGuard VPN,MEGA VPN,東京
-60068,CyberGhost VPN,Surfshark,日本(東京)
-62651,Bitdefender VPN,,東京
-63150,Turbo VPN (Streaming),,日本(東京)
-63949,Turbo VPN,,東京
-63949,マカフィー セキュアVPN,,日本(大阪)
-136258,Aloha ブラウザ内蔵VPN,,日本(東京)
-136787,NordVPN,,東京
-137409,NordVPN,,東京
-137409,ExpressVPN,,大阪
-140952,Bitdefender VPN,,東京
-147049,NordVPN,,東京、大阪
-206092,ExpressVPN,,東京
-206092,ExpressVPN,,横浜
-208172,Proton VPN,,東京
-212238,Proton VPN,Brave VPN,東京
-212238,PureVPN,Surfshark,日本(東京)
-212238,アバスト セキュアライン VPN (p2p),AVG セキュア VPN (p2p),日本(東京)
-396356,ExpressVPN,,渋谷
-396356,PureVPN,,日本(東京)
+﻿ASN,VPN名もしくはISP名,,,,VPNサーバーの場所
+2514,Glocal VPN 動画視聴VPN,Glocal VPN かんたん固定IPアドレス,,,日本
+2914,"NTT America, Inc.",,,,-
+3258,Proton VPN,,,,東京
+4713,"NTT DOCOMO BUSINESS,Inc.",,,,-
+4785,Proton VPN,Bitdefender VPN,,,大阪
+7684,セカイブラウザ,,,,日本(東京、大阪)
+9009,AdGuard VPN,,,,韓国ソウル
+9009,Proton VPN,,,,東京
+9009,Surfshark,,,,日本(東京)
+16509,ノートンセキュアVPN,,,,東京
+16509,アバスト セキュアライン VPN,AVG セキュア VPN,,,日本(東京)
+16509,Glocal VPN せんぞく固定IPアドレス,,,,日本
+19527,トレンドマイクロ VPN,,,,日本(東京)
+20473,Turbo VPN,,,,大阪
+20473,Turbo VPN,,,,東京(埼玉)
+21859,TunnelBear,,,,東京
+21859,CyberGhost VPN,マカフィー セキュアVPN,,,日本(東京)
+23959,Proton VPN,,,,大阪
+36599,VPN Gate,,,,東京
+46475,TunnelBear,,,,東京
+46475,PureVPN,,,,日本(東京)
+46475,マカフィー セキュアVPN,,,,日本(東京)
+58325,NordVPN,,,,東京
+58325,PureVPN,,,,日本(東京)
+60068,AdGuard VPN,MEGA VPN,,,東京
+60068,CyberGhost VPN,Surfshark,,,日本(東京)
+62651,Bitdefender VPN,,,,東京
+63150,Turbo VPN (Streaming),,,,日本(東京)
+63949,Turbo VPN,,,,東京
+63949,マカフィー セキュアVPN,,,,日本(大阪)
+136258,Aloha ブラウザ内蔵VPN,,,,日本(東京)
+136787,NordVPN,,,,東京
+137409,NordVPN,,,,東京
+137409,ExpressVPN,,,,大阪
+140952,Bitdefender VPN,,,,東京
+147049,NordVPN,,,,東京、大阪
+206092,ExpressVPN,,,,東京、横浜
+208172,Proton VPN,,,,東京
+212238,Proton VPN,Brave VPN,NordVPN,,東京
+212238,PureVPN,Surfshark,アバスト セキュアライン VPN (p2p),AVG セキュア VPN (p2p),日本(東京)
+396356,ExpressVPN,,,,渋谷
+396356,PureVPN,,,,日本(東京)
